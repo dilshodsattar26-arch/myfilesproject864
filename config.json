@@ -1,0 +1,8 @@
+{
+    "name": "approute-service",
+    "version": "1.0.864",
+    "private": false,
+    "environment": "production",
+    "build_id": 602,
+    "allow_public_access": true
+}
